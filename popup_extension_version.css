@@ -104,7 +104,8 @@
             border-radius: 0;
             border-bottom: 1px solid #FE6700;
             margin: 5px;
-            padding: 5px;
+            margin-left: 5px;
+            padding: 5px 0px;
             width: 340px;
             font-size: large;
           }
