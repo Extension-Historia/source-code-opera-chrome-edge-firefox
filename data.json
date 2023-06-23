@@ -501,7 +501,7 @@
     {
       "title": "Biblioteca Nacional Digital (Biblioteca Nacional de Portugal)",
       "description": "The website of the national library of Portugal.",
-      "language": "Portuguese",
+      "language": "<tg>Portuguese</tg>",
       "link": "https://bndigital.bnportugal.gov.pt/"
     },
     {
@@ -938,7 +938,7 @@
     },
     {
       "title": "Computational Historical Semantics",
-      "description": "The former version of the current <i>LTA Latin Text Archive</i>. The website helps to research Latin Texts by providing help in word frequency analytics as well as lexical analytics.",
+      "description": "The former version of the current <i>Latin Text Archive (LTA)</i>. The website helps to research Latin Texts by providing help in word frequency analytics as well as lexical analytics.",
       "language": "<tg>English</tg>",
       "link": "https://www.comphistsem.org/home.html"
     },
@@ -1281,7 +1281,7 @@
     {
       "title": "DHI Rom catalog (Koha)",
       "description": "The Koha library catalog of the <i>Deutsches Historisches Institut Rom (DHI Rom)</i>.",
-      "language": "English German",
+      "language": "<tg>English</tg> <tg>German</tg>",
       "link": "https://dhi-roma.bsz-bw.de/"
     },
     {
@@ -3103,7 +3103,7 @@
       "link": "http://www.thelatinlibrary.com/"
     },
     {
-      "title": "Latin Text Archive",
+      "title": "Latin Text Archive (LTA)",
       "description": "A database of Latin texts with features for text analysis.",
       "language": "<tg>English</tg>",
       "link": "https://lta.bbaw.de/"
@@ -3687,7 +3687,7 @@
     {
       "title": "Military Archives Ireland - Online Collections",
       "description": "The website of the <i>Military Archives</i> by the Defence Forces of Ireland / Óglaigh na héireann makes military documents of Ireland mostly of the 20th century accessible.",
-      "language": "English Irish",
+      "language": "<tg>English</tg> <tg>Irish</tg>",
       "link": "https://www.militaryarchives.ie/collections/online-collections/bureau-of-military-history-1913-1921"
     },
     {
@@ -4089,7 +4089,7 @@
     {
       "title": "Paper Identification Database",
       "description": "A database for codicological or paleographical research of Nordic sources, especially focused on Finnish, Swedish and Estonian papers.",
-      "language": "English Finnish",
+      "language": "<tg>English</tg> <tg>Finnish</tg>",
       "link": "http://kronos.narc.fi/paperi/index_en.html"
     },
     {
@@ -5005,7 +5005,7 @@
       "link": "https://www.online.uni-marburg.de/fpmr/php/thelo/gn-html.php?gnid=2853292"
     },
     {
-      "title": "Thesaurus Musicarum Latinarum - Online Archive of Music Theory in Latin",
+      "title": "Thesaurus Musicarum Latinarum (TML) - Online Archive of Music Theory in Latin",
       "description": "A collection of sources for music in Latin from the Antiquity to the Early Modern Period.",
       "language": "<tg>English</tg>",
       "link": "https://chmtl.indiana.edu/tml/"
@@ -5277,7 +5277,7 @@
     {
       "title": "명실록·청실록 明實錄·淸實錄 Veritable Records of the Ming / Veritable Records of the Qing",
       "description": "A database of historical records of the Ming and Qing dynasties.",
-      "language": "Korean Traditional Chinese",
+      "language": "<tg>Korean</tg> <tg>Traditional Chinese</tg>",
       "link": "http://sillok.history.go.kr/mc/main.do"
     },
     {
