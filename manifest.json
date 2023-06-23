@@ -1,6 +1,6 @@
 {
     "name":"Historia Quick Launcher",
-    "version":"2.0.1",
+    "version":"2.0.2",
     "description":"Quick Launch App for Historians",
     "homepage_url": "https://extension-historia.github.io/",
     "manifest_version":3,
@@ -14,5 +14,5 @@
         "default_icon":"icons/icon_128px.png",
         "default_popup":"popup.html"
     },
-    "permissions":["activeTab"]
+    "permissions":[""]
 }
