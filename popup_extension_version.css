@@ -73,6 +73,11 @@
             font-size: 9px;
           }
 
+          tag-beta  {
+            color: red;
+            font-weight: bold;
+          }
+
           /* datatables info color */
           h2 {
             color: #FE6700;
