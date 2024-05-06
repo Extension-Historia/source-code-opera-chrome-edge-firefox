@@ -53,7 +53,7 @@ $(document).ready(function () {
     "language": {
     "search": "",
 		"searchPlaceholder": "Search...",
-      "info": "Showing _TOTAL_ of _MAX_ entries",
+      "info": "<h2>Showing _TOTAL_ of _MAX_ entries</h2>",
       "infoFiltered": "",
       "infoEmpty": ""
     },
@@ -65,7 +65,7 @@ $(document).ready(function () {
 $(document).ready(function() {
 
   var table = $('#example').DataTable();
-  
+
   oTable = $('#example').DataTable();
   $('#custom_searchbox').keyup(function() {
     oTable.search($(this).val()).draw();
