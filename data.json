@@ -171,7 +171,7 @@
     {
       "title": "Andrist, P.: Les manuscrits grecs conservés à la Bibliothèque de la Bourgeoisie de Berne - Burgerbibliothek Bern. Règles de catalogage",
       "description": "",
-      "language": "<tg>English</tg>",
+      "language": "<tg>French</tg>",
       "link": "http://www.codices.ch/catalogi/leges_2007.pdf"
     },
     {
@@ -1672,7 +1672,7 @@
       "title": "The Digital Walters",
       "description": "",
       "language": "<tg>English</tg>",
-      "link": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html"
+      "link": "https://www.thedigitalwalters.org/"
     },
     {
       "title": "Das Digitale Bildarchiv des Bundesarchivs",
@@ -2097,8 +2097,8 @@
     {
       "title": "Études Angevines",
       "description": "",
-      "language": "<tg>English</tg>",
-      "link": "https://epistolae.ctl.columbia.edu/"
+      "language": "<tg>French</tg> <tg>English</tg> <tg>German</tg> <tg>Hungarian</tg> <tg>Italian</tg>",
+      "link": "https://angevine-europe.huma-num.fr/ea/fr/"
     },
     {
       "title": "Etymologisches Wörterbuch des Althochdeutschen (EWA)",
@@ -2642,7 +2642,7 @@
     },
     {
       "title": "한국고전종합DB Integrated Database of Korean Classics",
-      "description": "DES.",
+      "description": "",
       "language": "<tg>Korean</tg>",
       "link": "https://db.itkc.or.kr/"
     },
@@ -3343,10 +3343,10 @@
       "link": "https://www.dl.ndl.go.jp/"
     },
     {
-      "title": "Koreanstudies Information Service System (KISS)",
+      "title": "Korean Studies Information Service System (KISS)",
       "description": "",
       "language": "<tg>Korean</tg> <tg>English</tg>",
-      "link": "https://www.dl.ndl.go.jp/"
+      "link": "https://kiss.kstudy.com/"
     },
     {
       "title": "Kotenseki sōgō database 古典籍総合データベース [Database of Japanese and Chinese classical sources]",
@@ -6037,7 +6037,7 @@
       "link": "https://www.kuizhangge.cn/"
     },
     {
-      "title": "Zhongguo zhwan 中国知网 (CNKI)",
+      "title": "Zhongguo zhiwang 中国知网 (CNKI)",
       "description": "",
       "language": "<tg>Simplified Chinese</tg> <tg>English</tg>",
       "link": "https://chn.oversea.cnki.net/index/"
