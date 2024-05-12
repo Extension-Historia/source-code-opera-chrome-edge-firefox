@@ -6,6 +6,7 @@ Quick Launch App for Historians: The add-on has pre-collected links of websites 
 ## Description
 
 I. WHAT DOES THE ADD-ON DO?
+
 The add-on has pre-collected links of websites that might help the research of history, regardless of topic, era and region. It has the following functions:
 
 1.) It can search through the links and descriptions that are already provided with the keyword you typed into the search bar.
@@ -18,6 +19,7 @@ The add-on has pre-collected links of websites that might help the research of h
 
 
 II. CAN I MAKE SUGGESTIONS?
+
 Yes, you can.
 The developer is accepting further links in any language at any time for any type of webpage related to the research of history. Every contribution to the project will be noted on the project page with the name of the contributor as well as the number of contributions made – if not otherwise desired.
 
@@ -30,9 +32,11 @@ III. COLLECTED INFORMATION
 
 This add-on does not collect any information whatsoever from the user. Anything that the user typed into the search bar remains in the add-on itself. For privacy concerns, anyone is free to look into the source codes published online (see Github page).
 
+
 IV. FREE USAGE
 
 The add-on is and will always be free to use and to spread (license: CC BY-SA 4.0). In case of publications, please credit the project and developer accordingly.
+
 
 V. FURTHER INFORMATION & OPEN SOURCE CODES
 
